@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "app_function": "myproject.wsgi.application",
+    "aws_region": "ap-south-1",
+    "profile_name": "default",
+    "project_name": "myproject",
+    "runtime": "python3.9",
+    "s3_bucket": "zappa-django-demo"
+  }
+}
